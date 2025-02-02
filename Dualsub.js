@@ -55,7 +55,7 @@ let default_settings = {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
         sl: "auto",
-        tl: "English [CC]",
+        tl: "en [CC]",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -101,7 +101,7 @@ let default_settings = {
     },
     Netflix: {
         type: "Google", // Google, DeepL, External, Disable
-        lang: "English",
+        lang: "en",
         sl: "auto",
         tl: "en",
         line: "s", // f, s
@@ -135,7 +135,7 @@ let default_settings = {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
         sl: "auto",
-        tl: "English [CC]",
+        tl: "en [CC]",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
